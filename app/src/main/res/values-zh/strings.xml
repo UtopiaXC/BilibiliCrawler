@@ -15,7 +15,7 @@
     <string name="quit">退出</string>
     <string name="net_error">网络异常，请检查</string>
     <string name="exit_alart">再按一次退出程序</string>
-    <string name="open_source_info">抱歉，开源许可正在审核。</string>
+    <string name="open_source_info">"MIT License  Copyright (c) 2019 UtopiaXC  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. "</string>
     <string name="no_update">恭喜，您正在使用最新版本的应用。</string>
     <string name="Confirm_to_download">确认下载封面</string>
     <string name="Confirm_info">是否下载本视频封面？（请确认您已赋予本应用储存权限，否则下载将会失败）</string>
