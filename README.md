@@ -15,3 +15,6 @@
 
 
 #目前版本还有很多不完善的地方，将在后续版本补全。
+
+
+正式版下载地址：<a href="https://github.com/UtopiaXC/BilibiliCrawler/blob/master/app/release/app-release.apk?raw=true">哔哩哔哩全站视频排行榜1.0.3</a>
