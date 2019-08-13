@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="?attr/actionBarSize"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="封面图"
+        android:textAlignment="center"
+        android:textSize="22sp" />
+
+    <WebView
+        android:id="@+id/cover"
+        android:layout_width="match_parent"
+        android:layout_height="304dp">
+
+    </WebView>
+
+    <TextView
+        android:id="@+id/video_infomation"
+        android:layout_width="match_parent"
+        android:layout_height="102dp"
+        android:singleLine="false"
+        android:text=""
+        android:textAlignment="viewStart"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/video"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="app内打开视频"
+        android:textAlignment="center"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/author"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="打开作者空间"
+        android:textAlignment="center"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/share"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="复制分享链接"
+        android:textAlignment="center"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/download"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="保存封面图到本地"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+</LinearLayout>

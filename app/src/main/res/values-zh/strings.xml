@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">哔哩哔哩全站视频排行榜</string>
+    <string name="action_settings">设置</string>
+    <string name="settings_name">设置</string>
+    <string name="activityvideos_name">视频详情</string>
+    <string name="developer_message">开发者信息</string>
+    <string name="open_source_license">开源许可</string>
+    <string name="update_cheak">检查更新</string>
+    <string name="developer_info">本应用由个人开发者UtopiaXC开发</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="this_time">本次</string>
+    <string name="refreah_info">请不要在短时间内快速刷新，哔哩哔哩对1分钟内超过150次的连接请求会对请求IP进行封禁5分钟以上处理。</string>
+    <string name="quit">退出</string>
+    <string name="net_error">网络异常，请检查</string>
+    <string name="exit_alart">再按一次退出程序</string>
+    <string name="open_source_info">抱歉，开源许可正在审核。</string>
+    <string name="no_update">恭喜，您正在使用最新版本的应用。</string>
+    <string name="Confirm_to_download">确认下载封面</string>
+    <string name="Confirm_info">是否下载本视频封面？（请确认您已赋予本应用储存权限，否则下载将会失败）</string>
+    <string name="open_setting">设置权限</string>
+</resources>
