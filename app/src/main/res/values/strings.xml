@@ -19,4 +19,5 @@
     <string name="Confirm_to_download">Confirm to download the cover</string>
     <string name="Confirm_info">Do you want to download the cover of this video?(Before downloading, please confirm that you grant storage rights to this application.Otherwise, the download will fail.)</string>
     <string name="open_setting">Settings</string>
+    <string name="goto_github">open URL</string>
 </resources>

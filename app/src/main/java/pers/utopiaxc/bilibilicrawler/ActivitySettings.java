@@ -3,6 +3,7 @@ package pers.utopiaxc.bilibilicrawler;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.provider.Settings;
 import android.view.KeyEvent;
@@ -54,8 +55,14 @@ public class ActivitySettings extends AppCompatActivity {
                 if (id == 0) {
                     AlertDialog.Builder builder  = new AlertDialog.Builder(ActivitySettings.this);
                     builder.setTitle(getString(R.string.developer_message) ) ;
-                    builder.setMessage(getString(R.string.developer_info) ) ;
+                    builder.setMessage(getString(R.string.developer_info)+"\nGithub:https://github.com/UtopiaXC/BilibiliCrawler" ) ;
                     builder.setPositiveButton(getText(R.string.confirm) ,  null );
+                    builder.setNegativeButton(getText(R.string.goto_github), new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
+                            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/UtopiaXC/BilibiliCrawler")));
+                        }
+                    });
                     builder.show();
                 }else if(id==1){
                     AlertDialog.Builder builder  = new AlertDialog.Builder(ActivitySettings.this);

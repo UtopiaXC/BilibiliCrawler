@@ -6,6 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginTop="?attr/actionBarSize"
+    android:divider="@drawable/shape"
+    android:showDividers = "middle"
     android:orientation="vertical">
 
     <TextView
@@ -38,6 +40,7 @@
         android:layout_height="60dp"
         android:text="app内打开视频"
         android:textAlignment="center"
+        android:background="?android:attr/selectableItemBackgroundBorderless"
         android:textSize="18sp"/>
 
     <Button
@@ -46,6 +49,7 @@
         android:layout_height="60dp"
         android:text="打开作者空间"
         android:textAlignment="center"
+        android:background="?android:attr/selectableItemBackgroundBorderless"
         android:textSize="18sp"/>
 
     <Button
@@ -54,6 +58,7 @@
         android:layout_height="60dp"
         android:text="复制分享链接"
         android:textAlignment="center"
+        android:background="?android:attr/selectableItemBackgroundBorderless"
         android:textSize="18sp"/>
 
     <Button
@@ -62,6 +67,7 @@
         android:layout_height="60dp"
         android:text="保存封面图到本地"
         android:textAlignment="center"
+        android:background="?android:attr/selectableItemBackgroundBorderless"
         android:textSize="18sp" />
 
 </LinearLayout>
