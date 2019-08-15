@@ -1,6 +1,13 @@
 # BilibiliCrawler
 <h1>哔哩哔哩全站视频排行榜</h1>
-应用内容：
+
+<h3>下载</h3>
+
+正式版下载：<a href="https://github.com/UtopiaXC/BilibiliCrawler/blob/master/app/release/app-release.apk?raw=true">哔哩哔哩全站视频排行榜1.0.5</a>
+
+开发版：目前不支持技术预览
+
+<h3>应用内容</h3>
 
 #随着哔哩哔哩的发展，其手机应用功能越来越强大，但是有时只想看个排行榜却找个半天很麻烦，而且可能被其他无用信息（首页推荐/广告等）吸引导致时间的浪费。
 
@@ -10,4 +17,3 @@
 
 #目前版本还有很多不完善的地方，将在后续版本补全。
 
-最新正式版下载：<a href="https://github.com/UtopiaXC/BilibiliCrawler/blob/master/app/release/app-release.apk?raw=true">哔哩哔哩全站视频排行榜1.0.5</a>
