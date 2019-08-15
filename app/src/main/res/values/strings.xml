@@ -14,19 +14,19 @@
     <string name="quit">Quit</string>
     <string name="net_error">Network error, please check.</string>
     <string name="exit_alart">Press again to exit the program</string>
-    <string name="open_source_info">MIT License
+    <string name="open_source_info">MIT License&#x000D;
 
-Copyright (c) 2019 UtopiaXC
+Copyright (c) 2019 UtopiaXC&#x000D;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+furnished to do so, subject to the following conditions:&#x000D;
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of the Software.&#x000D;
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -41,4 +41,9 @@ SOFTWARE.
     <string name="Confirm_info">Do you want to download the cover of this video?(Before downloading, please confirm that you grant storage rights to this application.Otherwise, the download will fail.)</string>
     <string name="open_setting">Settings</string>
     <string name="goto_github">open URL</string>
+    <string name="has_update">Latest version is available,please download or go to GitHub for updates.</string>
+    <string name="download_newversion">Download</string>
+    <string name="unknow_error">Unknown Error</string>
+    <string name="again_please">Sorry, please try again!</string>
+    <string name="congratulations">Congratulations</string>
 </resources>
