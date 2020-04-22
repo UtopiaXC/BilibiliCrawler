@@ -1,5 +1,8 @@
 <h1>哔哩哔哩全站视频排行榜</h1>
 
+<h3>警告</h3>
+基本弃坑，以后有时间可能会更新。目前应用不可用。
+
 <h3>下载</h3>
 
 正式版下载：<a href="https://github.com/UtopiaXC/BilibiliCrawler/blob/master/app/release/app-release.apk?raw=true">哔哩哔哩全站视频排行榜1.0.5</a>
